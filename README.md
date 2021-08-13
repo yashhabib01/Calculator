@@ -1,6 +1,6 @@
 # Calculator
 
-<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/128698047-ad01f533-4760-4922-ac70-8e7c515b96b0.png" />
-<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/128698290-1108c756-76e0-48e3-b37c-2a7294a17782.png" />
-<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/128698403-5c96ae0b-80d8-48bb-9e0d-113b77c535f4.png" />
-<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/128698410-34ed0b0b-0a35-4f57-856b-1f4c837428cd.png" />
+<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/129383364-15bcd650-0965-4a46-86d9-46ffb61cc677.png" />
+<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/129383374-516744c4-022a-48d5-8dc8-3bf2d135ac7e.png" />
+<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/129383385-de2dc2a4-a6f0-4f43-92b9-82228b59baf0.png" />
+<img width=300 height=500 src="https://user-images.githubusercontent.com/75259953/129383389-194fe20e-0237-412d-a564-9b02b691ec91.png" />
